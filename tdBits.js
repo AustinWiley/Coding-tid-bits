@@ -9,5 +9,5 @@ myArr.forEach(arr => {
     console.log(arr + " " + variabletwo);
 });
 
-
+console.log("almost end of program");
 console.log("end of program");
