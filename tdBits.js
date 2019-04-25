@@ -15,3 +15,5 @@ console.log("end of program");
 //and again
 const variableThree = "shoes";
 const variableFout = "bananas";
+
+const myArr2 = ["fout", "five", "six"];
