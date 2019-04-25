@@ -14,6 +14,11 @@ console.log("end of program");
 
 //and again
 const variableThree = "shoes";
-const variableFout = "bananas";
+const variableFour = "bananas";
 
 const myArr2 = ["fout", "five", "six"];
+
+myArr2.forEach(arr => {
+    console.log(arr + " " + variableThree);
+    console.log(arr + " " + variableFour);
+});
