@@ -13,5 +13,5 @@ console.log("almost end of program");
 console.log("end of program");
 
 //and again
-const variableOne = "shoes";
-const variabletwo = "bananas";
+const variableThree = "shoes";
+const variableFout = "bananas";
