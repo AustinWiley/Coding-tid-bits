@@ -29,3 +29,6 @@ const variableSox = "apple";
 
 const myArr3 = ["seven", "eight", "nine"];
 
+myArr3.forEach(arr => {
+    console.log(arr + " " + variableFive);
+})
