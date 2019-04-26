@@ -25,12 +25,12 @@ console.log("end of program");
 
 //and again
 const variableFive = "pear";
-const variableSox = "apple";
+const variableSx = "apple";
 
 const myArr3 = ["seven", "eight", "nine"];
 
 myArr3.forEach(arr => {
     console.log(arr + " " + variableFive);
-    console.log(arr + " " + variableSox);
-    
+    console.log(arr + " " + variableSix);
+
 })
