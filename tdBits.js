@@ -22,3 +22,10 @@ myArr2.forEach(arr => {
 
 console.log("almost end of program");
 console.log("end of program");
+
+//and again
+const variableFive = "pear";
+const variableSox = "apple";
+
+const myArr3 = ["seven", "eight", "nine"];
+
